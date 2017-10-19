@@ -1,0 +1,6 @@
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\bin\Debug\cwiczenia12102017.exe.config
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\bin\Debug\cwiczenia12102017.exe
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\bin\Debug\cwiczenia12102017.pdb
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\obj\Debug\cwiczenia12102017.csprojResolveAssemblyReference.cache
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\obj\Debug\cwiczenia12102017.exe
+D:\progiObiektowe\cwiczenia12102017\cwiczenia12102017\obj\Debug\cwiczenia12102017.pdb
